@@ -1,2 +1,2 @@
 # Semester-Project
-My (in theory) working semester project
+My working semester project.
