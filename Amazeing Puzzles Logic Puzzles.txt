@@ -1,0 +1,176 @@
+Welcome to the Amazing Puzzles logic puzzles!
+The values below mean the following:
+Semicolons help the program find the levels
+Dashes help the program find each possible logic puzzle
+Newlines help the program find each clue
+level 1:4-3
+Puzzle 1-
+Joe, Bob, and Marcene are out trick or treating. They either receive a rock, twizzler, or a Hershey’s bar and their favorite candies are either Twizzlers, Kit Kats, or M&M's.
+Someone got their favorite candy
+Bob didn’t get a candy
+Joe loves Twizzlers
+Bob loves M&M’s
+-Puzzle 2-
+Will, John, and Bob are either 6, 7 or 8 years old, and their favorite superheroes are Captain America, Superman, or Batman.
+The oldest likes Batman
+John likes Batman 
+Will is 6 years old
+The seven year old likes Captain America 
+-Puzzle 3-
+Mike, Luke, and Sam like Programming, Nature, or Video Games and their Favorite Foods are Pizza, Meatloaf, or Lasagna.
+The Programmer likes meatloaf
+Mike likes some kind of Italian food
+Sam likes Video Games
+Whoever likes Pizza Likes Video Games
+-Puzzle 4-
+There are three types of buildings in this town, which are a House, a hotel, or a shop. They either have one, two, or three floors, and either four, six, or eight people currently inside them.
+The building with 2 floors has the most people in it
+The hotel has six people in it
+The shop has the least number of floors 
+-Answer 1-
+Joe
+Bob
+Marcene
+Twizzler
+Rock
+Hersheys Bar
+Twizzlers
+M&M’s
+Kit Kats
+-Answer 2-
+Will
+John
+Bob
+Six
+Seven
+Eight
+Superman
+Captain America
+Batman
+-Answer 3-
+Mike
+Luke
+Sam
+Nature
+Programming
+Video Games
+Lazania
+Meatloaf
+Pizza
+-Answer 4-
+House
+Hotel
+Shop
+Two
+Three
+One
+Eight
+Six
+Four
+-end
+:Level 2:2-5
+Puzzle 1-
+A fresh group of astronaut candidates have just completed their training, and NASA has assigned each of them their first official launch mission. Using only the clues below, match each astronaut to his or her mission and launch date, and determine the research subject they will be focused on.
+Delia will launch 3 months before the graduate assigned to mission CR260.
+The person assigned to mission ZF15 will launch sometime after the person assigned to mission TV412.
+The five people are Wade, the person assigned to mission ZF15, the person assigned to mission TV412, the person launching in March and the graduate launching in April.
+The person launching in May will be on mission GX13.
+Katherine will be on mission WB664.
+Rose won't be on mission ZF15.
+-Puzzle 2-
+Barker County holds a weekly farmer's market every Saturday, during which vegetable sellers from all over the county can set up shop to sell their produce. Each stall sells only one type of vegetable, and each for a different price per pound. Using only the clues below, match each seller to his or her vegetable, and determine its price per pound as well as the town in which is was grown.
+Elvira's produce sell for 20 cents more per pound than the onions.
+The onions sell for somewhat less per pound than Pablo's goods.
+Kari's produce sell for 20 cents more per pound than Pablo's produce.
+Pablo's goods are the potatoes.
+Dan's vegetables are either the spinach or the onions.
+Elvira's vegetables are the beets.
+Pablo's produce are either the carrots or the produce that sell for $2.60 per pound.
+Vincent's vegetables don't sell for $2.90 per pound.
+-Answer 1-
+January
+February
+March
+April
+May
+Delia
+Seth
+Katherine
+Rose
+Wade
+TV412
+ZF15
+WB664
+CR260
+GX13
+-Answer 2-
+$2.50
+$2.60
+$2.70
+$2.80
+$2.90
+Vincent
+Pablo
+Elvira
+Kari
+Dan
+onions
+potatoes
+beets
+carrots
+spinach
+-end
+:Level 3:2-4
+Puzzle 1-
+After seeing the latest Hollywood blockbuster, several friends went to the local cafe for a late night dessert. Match each person to their drink and dessert order, and determine the final bill for each.
+The one who had the cafe americano paid 1 dollar more than Wayne.
+Russell paid more than the one who had the cafe americano.
+The diner who ordered the mousse was either the one who had the cafe americano or the person who paid $5.99.
+The four friends were the person who paid $8.99, the diner who ordered the parfait, the diner who ordered the streusel and Wayne.
+Tim paid 1 dollar more than the diner who ordered the streusel.
+The diner who ordered the streusel paid 2 dollars more than the one who had the cappuccino.
+The person who paid $7.99 was either the one who had the espresso or the one who had the cappuccino.
+-Puzzle 2-
+Daniella has received a number of orders this month from customers who want to have custom computers built for them. Using only the clues below, match each customer to his computer's specifications, including hard drive size, amount of RAM and processor speed.
+The four computers are the build with 256 GB of hard drive space, the build with 4 GB of RAM, Lowell's build and the build with a 2.8 GHz processor.
+Of Doug's system and the system with 256 GB of hard drive space, one has 6 GB of RAM and the other has 4 GB of RAM.
+The system with 128 GB of hard drive space, Tom's build, and the system with 4 GB of RAM are three different computers.
+The build with 512 GB of hard drive space, Tom's system, and the computer with 4 GB of RAM are three different computers.
+The computer with a 2.8 GHz processor has a hard drive that is somewhat smaller than the build with 8 GB of RAM.
+Doug's system is either the system with a 1.4 GHz processor or the system with 6 GB of RAM.
+The build with a 2.0 GHz processor is either the build with 128 GB of hard drive space or the build with 8 GB of RAM.
+-Answer 1-
+$5.99
+$6.99
+$7.99
+$8.99
+Wayne
+Francis
+Russell
+Tim
+cappuccino
+cafe americano
+espresso
+cafe mocha
+mousse
+parfait
+streusel
+profiterole
+-Answer 2-
+128 GB
+256 GB
+384 GB
+512 GB
+Victor
+Tom
+Doug
+Lowell
+2 GB
+6 GB
+4 GB
+8 GB
+2.8 GHz
+1.6 GHz
+1.4 GHz
+2.0 GHz
+-end:
