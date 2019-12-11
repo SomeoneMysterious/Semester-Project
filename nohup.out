@@ -147,3 +147,5 @@ Failed to read: session.screen0.titlebar.left
 Setting default value
 Failed to read: session.screen0.titlebar.right
 Setting default value
+XIO:  fatal IO error 4 (Interrupted system call) on X server ":0"
+      after 9413 requests (9413 known processed) with 0 events remaining.
