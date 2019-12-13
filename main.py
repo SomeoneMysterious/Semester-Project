@@ -313,7 +313,8 @@ while (not(end) and levelNum != 4):
                 elif event.key == K_p:
                     levelNum += 1
 t2 = time.time()
-print("Time it took you: "+str('{0:.3g}'.format(t2-t1))+" seconds")
+if t2 > 10:
+    print("Time it took you: "+str('{0:.3g}'.format(t2-t1))+" seconds")
 pygame.quit()
 print("Have a nice day!")
 time.sleep(5)
