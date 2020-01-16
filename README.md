@@ -7,3 +7,4 @@ Link for the sheet to help you play and write your logic puzzles on:
 https://docs.google.com/document/d/1OMszC3tHlZy1gmD6VWkmkgdems8JDTEhFS3rpmFAVJ0/edit?usp=sharing
 
 Next Semester's Project(work in progress):
+https://github.com/SomeoneMysterious/Semester-Project2
